@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: #a2dee4;
+  padding: 5px;
+}
+
+#icon_dog {
+ padding: 5px 10px;
+}
+
+ul {
+  display: flex;
+  float: right;
+}
+
+.nav {
+    display: inline-block;
+    color: #fff;
+    padding: 12px 15px;
+}
