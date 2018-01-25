@@ -1,0 +1,31 @@
+footer {
+  background-color: #528ca4;
+  height: 200px;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  font-weight: lighter;
+  font-size: 1rem;
+  margin: 3% auto 3%;
+  padding-top: 2%; 
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+
+.icons {
+  margin: 0px 30px;
+}
+
+a {
+  color: white;
+  margin-top: 21%;
+  padding-left: 45%;
+}
+
