@@ -1,0 +1,70 @@
+#section_single_dog {
+    height: 500px;
+    background-image: url(../images/park2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 62vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#article_single_dog {
+  text-align: center;
+}
+
+h1 {
+  margin: 7%;
+}
+
+#dog_top_blue {
+  border-radius: 50%;
+  border: 3px solid #528ca4;
+}
+
+button {
+  border: 4px solid #528ca4;
+  padding: 1%;
+  color: #528ca4;
+  font-size: 1rem;
+  margin: 2%;
+}
+
+#section_three_dogs {
+  display: flex;
+}
+
+.article_dogs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 30%;
+  justify-content: space-around;
+  padding: 27px;
+}
+
+.three_dogs {
+  border-radius: 50%;
+  border: 2px solid #528ca4;
+  height: 200px;
+  margin: 5%;
+}
+
+p {
+  max-width: 300px;
+  margin-bottom: 5%;
+}
+
+h4 {
+  font-weight: lighter;
+}
+
+
+
+
+
+
+
+
+
+
+
